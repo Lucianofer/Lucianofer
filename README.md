@@ -1,6 +1,6 @@
 ### Oi eu sou o Luciano Fernandes
 
-- 🌱 Estudante de PHP
+- Analista de Dados
 - 😄 Pronouns: Ele/ Dele
 
 <div>
