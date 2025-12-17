@@ -107,5 +107,7 @@ Me chamo Luciano, tenho 38 anos e sou natural de Ouro Preto, MG. Sou formado em 
 ### 💻 Portifólio de projetos
 
 <div>
-    <a href="https://lucianofer.github.io/meu-portifolio/" target="_blank" target="_blank"><img src="https://img.shields.io/badge/🌐 Meu Portfólio-Visite agora-blue?style=for-the-badge" alt="Portfólio do Luciano"></a> 
+    <a href="https://lucianofer.github.io/meu-portifolio/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐 Meu Portfólio-Visite agora-blue?style=for-the-badge" alt="Portfólio do Luciano">
+    </a> 
   </div>
